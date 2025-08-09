@@ -6,3 +6,4 @@
     - Buy Coffee
     - Get Balance
     - Withdraw
+    - CheckFundedAmount
